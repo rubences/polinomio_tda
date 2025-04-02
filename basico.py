@@ -1,0 +1,8 @@
+# Definición de tipos (Estructura)
+
+
+
+
+
+
+

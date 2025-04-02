@@ -11,6 +11,12 @@ Este proyecto implementa un TDA (Tipo de Dato Abstracto) para trabajar con polin
 - **`Nodo.py`**: Implementa la clase `Nodo`, que representa un nodo en una lista enlazada.
 - **`basico.py`**: Archivo reservado para definiciones básicas o tipos adicionales.
 
+## Diagrama del Proyecto
+
+A continuación, se muestra un diagrama que ilustra la estructura del proyecto:
+
+![Diagrama del Proyecto](diagram.png)
+
 ## Funcionalidades
 
 1. **Suma de Polinomios**: Combina los términos de dos polinomios.
@@ -23,4 +29,5 @@ Este proyecto implementa un TDA (Tipo de Dato Abstracto) para trabajar con polin
 Para ejecutar el programa, utiliza el siguiente comando en la terminal:
 
 ```bash
-python [main.py](http://_vscodecontentref_/1)# polinomio_tda
+python main.py
+```
